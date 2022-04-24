@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>colegio</title>
+<head>
+
+</head>
+
+<body>
+<a href="https://www.schoolandcollegelistings.com/XX/Unknown/238850736493171/Colegio-Tecnol%C3%B3gico-Mixto-Biling%C3%BCe-%22Bel%C3%A9n%22-Barberena"><center><h1>Colegio Tecnolégico Mixto bilingüe Belén</a></h1></center>
+	<p>
+		Somos una institución líder en educación personalizada, bilingüe, multicultural que prepara a sus alumnos para superar los desafíos globales actuales.
+	</p>
+
+	<p>
+		Ser una institución educativa dinámica y pro-activa reconocida por su compromiso permanente con la excelencia y competitividad de los niños y jóvenes del país, a través de una educación con principios y valores, egresando ciudadanos con carácter capaces de aprender por sí mismos, empeñados en conseguir su desarrollo integral.
+	</p>
+
+
+</body>
+</html>
